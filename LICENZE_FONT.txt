@@ -1,0 +1,2 @@
+Atkinson Hyperlegible: SIL Open Font License 1.1 – https://github.com/googlefonts/atkinson-hyperlegible
+Noto Sans Arabic: SIL Open Font License 1.1 – https://github.com/notofonts/arabic
