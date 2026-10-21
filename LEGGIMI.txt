@@ -1,4 +1,5 @@
-MISSIONE PREISTORIA – ISTRUZIONI PER GITHUB PAGES
+MISSIONE PREISTORIA COMPLETAMENTE BILINGUE ITALIANO–ARABO
+مهمة ما قبل التاريخ باللغتين الإيطالية والعربية
 
 Contenuto del pacchetto
 - index.html: il quiz completo
@@ -9,7 +10,7 @@ Contenuto del pacchetto
 - codice_index_backup.txt: copia di sicurezza del codice HTML
 
 Pubblicazione
-1. Crea su GitHub un repository pubblico chiamato missione-preistoria-bilingue.
+1. Crea su GitHub un repository pubblico chiamato missione-preistoria-italiano-arabo.
 2. Estrai il file ZIP sul computer.
 3. Carica TUTTO il contenuto della cartella: index.html, le due cartelle e i file .txt.
 4. Controlla che index.html sia nella pagina principale del repository, non dentro una seconda cartella.
@@ -17,7 +18,7 @@ Pubblicazione
 6. In Source scegli Deploy from a branch; seleziona main e /(root), quindi Save.
 
 Indirizzo previsto
-https://NOMEUTENTE.github.io/missione-preistoria-bilingue/
+https://NOMEUTENTE.github.io/missione-preistoria-italiano-arabo/
 
 Se una vecchia versione resta visibile, attendi qualche minuto e ricarica con Ctrl+F5.
 
@@ -25,10 +26,18 @@ Caratteristiche
 - banca di 36 domande, 18 per partita;
 - 3 domande estratte da ciascuno dei 6 argomenti;
 - ordine di domande e risposte sempre mescolato;
-- 12 domande bilingui italiano–arabo nella banca;
-- spiegazioni immediate, indizi, lettore vocale e carattere ingrandibile;
+- tutte le 36 domande, le risposte, gli indizi e le spiegazioni sono in italiano e arabo;
+- testata completa bilingue: materia, classe, titolo, sottotitolo e autore;
+- italiano sempre nella colonna sinistra e arabo sempre nella colonna destra;
+- anche prima pagina, istruzioni, categorie, pulsanti, contatori, didascalie,
+  risultati e revisione degli errori sono disposti nelle due colonne bilingui;
+- spiegazioni immediate, indizi e carattere ingrandibile;
+- due pulsanti audio separati: uno legge domanda e risposte in italiano,
+  l’altro legge domanda e risposte in arabo;
+- menu per scegliere separatamente la voce italiana e quella araba tra quelle
+  disponibili sul dispositivo, più un pulsante per interrompere la lettura;
 - nessun timer;
 - compatibile con smartphone, tablet, computer e LIM.
 
 Descrizione breve per GitHub
-Quiz interattivo di Arte e Immagine per la prima media sulla Preistoria, con 36 domande, immagini da Wikimedia Commons, quesiti in italiano e arabo, spiegazioni immediate e strumenti inclusivi.
+Quiz bilingue italiano–arabo di Arte e Immagine per la prima media sulla Preistoria: 36 domande, immagini Wikimedia Commons, spiegazioni immediate e strumenti inclusivi.
