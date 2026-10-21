@@ -36,6 +36,8 @@ Caratteristiche
   l’altro legge domanda e risposte in arabo;
 - menu per scegliere separatamente la voce italiana e quella araba tra quelle
   disponibili sul dispositivo, più un pulsante per interrompere la lettura;
+- nelle risposte arabe le quattro alternative sono indicate con أ، ب، ج، د
+  e il lettore le pronuncia come ألف، باء، جيم، دال;
 - nessun timer;
 - compatibile con smartphone, tablet, computer e LIM.
 
